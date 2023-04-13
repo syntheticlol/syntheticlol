@@ -16,11 +16,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- A passionate Python Dev
+- I play rocket league or cod in free time or sports
+- Currently learning Golang 
+- Discord: synthetic#0679
+- Looking for teeam to code with
 
 <br><br>
 
