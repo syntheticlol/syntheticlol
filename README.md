@@ -19,7 +19,7 @@
 - A passionate Python Dev
 - I play rocket league or cod in free time or sports
 - Currently learning Golang 
-- Discord: synthetic#6928
+- Discord: synthetic#3681
 - Looking for teeam to code with
 
 <br><br>
