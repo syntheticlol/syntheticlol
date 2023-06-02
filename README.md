@@ -20,7 +20,7 @@
 - I play rocket league or cod in free time or sports
 - Currently learning Golang 
 - Discord: synthetic#3681
-- Looking for teeam to code with
+- Hobbyist Malware Dev
 
 <br><br>
 
