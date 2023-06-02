@@ -17,7 +17,7 @@
 <br>
 
 - A passionate Python Dev
-- I play rocket league or cod in free time or sports
+- I Lift and Play sports in freetime
 - Currently learning Golang 
 - Discord: synthetic#3681
 - Hobbyist Malware Dev
