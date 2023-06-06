@@ -19,7 +19,7 @@
 - A passionate Python Dev
 - I Lift and Play sports in freetime
 - Currently learning Golang 
-- Discord: synthetic#3681
+- Discord: synthetic#2368
 - Hobbyist Malware Dev
 
 <br><br>
