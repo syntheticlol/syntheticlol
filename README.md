@@ -15,7 +15,7 @@
 - Passionate Full-Stack Developer
 - I Lift and Play sports in freetime
 - Currently learning Rust & Typescript
-- Skillset:
+- Skillset:                                  
   • Python                                  
   • Javascript                                  
   • C++                                  
