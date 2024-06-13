@@ -16,17 +16,17 @@
 - I Lift and Play sports in freetime
 - Currently learning Rust & Typescript
 - Skillset:
-  • Python
-  • Javascript
-  • C++
-  • C
-  • C#
-  • Golang
-  • Rust
-  • Typescript
-  • Html
-  • PHP
-  • CSS
+  • Python                                  
+  • Javascript                                  
+  • C++                                  
+  • C                                  
+  • C#                                  
+  • Golang                                  
+  • Rust                                  
+  • Typescript                                  
+  • Html                                  
+  • PHP                                  
+  • CSS                                  
   • Powershell 
 - Discord: synthetic#2368
 - Hobbyist Malware Dev
