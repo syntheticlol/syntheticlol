@@ -12,9 +12,22 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- A passionate Python Dev
+- Passionate Full-Stack Developer
 - I Lift and Play sports in freetime
-- Currently learning Rust & Typescript 
+- Currently learning Rust & Typescript
+- Skillset:
+  • Python
+  • Javascript
+  • C++
+  • C
+  • C#
+  • Golang
+  • Rust
+  • Typescript
+  • Html
+  • PHP
+  • CSS
+  • Powershell 
 - Discord: synthetic#2368
 - Hobbyist Malware Dev
 
